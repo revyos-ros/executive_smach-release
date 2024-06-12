@@ -1,3 +1,30 @@
+## smach (jazzy) - 3.0.3-4
+
+The packages in the `smach` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy smach --override-release-repository-push-url git@github.com:revyos-ros/executive_smach-release.git --override-release-repository-url https://github.com/revyos-ros/executive_smach-release.git` on `Wed, 12 Jun 2024 02:33:06 -0000`
+
+These packages were released:
+- `executive_smach`
+- `smach`
+- `smach_msgs`
+- `smach_ros`
+
+Version of package(s) in repository `smach`:
+
+- upstream repository: https://github.com/ros/executive_smach.git
+- release repository: https://github.com/ros2-gbp/executive_smach-release.git
+- rosdistro version: `3.0.3-3`
+- old version: `3.0.3-3`
+- new version: `3.0.3-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## smach (rolling) - 3.0.3-1
 
 The packages in the `smach` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling smach` on `Fri, 14 Jul 2023 23:07:08 -0000`
